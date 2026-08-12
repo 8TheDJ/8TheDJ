@@ -1,4 +1,4 @@
-# Hey, i am Diederik or DJ
+# Hey, I am Diederik
 
 I am currently studying for a bachelors in Computer Science at university.
 I like topics such as Servers and Cloudcomputing, Backend and DevOps and Cybersecurity.
